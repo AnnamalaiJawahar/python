@@ -9,5 +9,3 @@ print("Hello, Welcome to Coffee shop!!!\n")
 a = input("What is your name? ")
 print("Hello", a, "Thank you for coming today")
 #print("Hello " + a + " Thank you for coming today")
-
-print(type(a))
